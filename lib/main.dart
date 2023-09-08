@@ -44,7 +44,7 @@ class ProfileCard extends StatelessWidget {
             style: TextStyle(
               fontSize: 24,
               fontWeight: FontWeight.bold,
-              color: Colors.blueGrey, // Color del texto del nombre
+              color: Colors.blueGrey,
             ),
           ),
           SizedBox(height: 8),
@@ -53,7 +53,7 @@ class ProfileCard extends StatelessWidget {
             style: TextStyle(
               fontSize: 25,
               fontWeight: FontWeight.bold,
-              color: Colors.black, // Color del texto de la descripción
+              color: Colors.black,
             ),
           ),
           SizedBox(height: 8),
